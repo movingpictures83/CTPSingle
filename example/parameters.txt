@@ -1,0 +1,2 @@
+frqfile	data/simulation15.frq
+adjfolder	GammaAdjMatrices

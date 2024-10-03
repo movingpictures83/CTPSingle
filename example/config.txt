@@ -1,0 +1,2 @@
+Prefix plugins/CTPSingle/example/
+Plugin CTPSingle inputfile parameters.txt outputfile output.frq
